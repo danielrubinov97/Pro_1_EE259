@@ -1,11 +1,13 @@
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_                                                                    \_
-\_    THE CITY COLLEGE OF NEW YORK, ELECTRICAL ENGINEERING DEPARTMENT \_
-\_               EE259, DAY-EVENING SECTIONS, FALL 2018               \_
-\_                                                                    \_
-\_                              PROJECT 1                             \_
-\_                                                                    \_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+# Pro_1 OUTLINE FROM EE259 COURSE
+## My Solution: Daniel Rubinov
+###	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+###	\_                                                                    \_
+###	\_   THE CITY COLLEGE OF NEW YORK, ELECTRICAL ENGINEERING DEPARTMENT  \_
+###	\_                EE259, DAY-EVENING SECTIONS, FALL 2018              \_
+###	\_                                                                    \_
+###	\_                              PROJECT 1                             \_
+###	\_                                                                    \_
+###	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PROJECT 1 DESCRIPTION:
 
