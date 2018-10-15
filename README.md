@@ -35,7 +35,7 @@ from STUDENT_ID class as described below.
    // they are not directly accessible from main
    protected: 	
 	int p;
-	int grades[20][10]; // 20 students and 8 exams per student max
+	int grades[20][10]; // 20 students and 10 exams per student max
    };
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
